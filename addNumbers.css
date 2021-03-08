@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: burlywood;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.btn {
+  font-size: 20px;
+  background: rgb(85, 123, 129);
+}
+
+#btnSize {
+  padding: 10px;
+}
+#tt {
+  margin-right: 20px;
+}
+#btnSum {
+  padding-left: 34px;
+}
+.tot {
+  align-items: center;
+}
