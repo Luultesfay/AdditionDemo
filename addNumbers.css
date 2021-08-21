@@ -1,3 +1,6 @@
+
+
+
 * {
   margin: 0;
   padding: 0;
@@ -13,12 +16,29 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+main{
+background: rgba(255, 165, 0, 0.73);
+}
 
-.btn {
+button {
   font-size: 20px;
   background: rgb(85, 123, 129);
   text-align: center;
 }
+section {
+  background:blue;
+  margin:15px 20px 30px 17px;
+  padding:40px;
+}
+
+
+input {
+  resize: horizontal;
+  width: 80px;
+  height:30px;
+  text-align:center;
+}
+
 
 #btnSize {
   padding: 10px;
